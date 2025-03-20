@@ -1,6 +1,6 @@
 # 🐍 Python Programming Course 📚
 
-This repository contains materials for a comprehensive Python programming course, including tasks, examples, and exam preparation materials.
+This repository contains materials for the INF120 Python programming course at NMBU, including tasks, examples, and exam preparation materials.
 
 ## 📂 Repository Structure
 
